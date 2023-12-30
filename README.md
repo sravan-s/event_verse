@@ -27,4 +27,8 @@ Technologies:
 * react-native -> client
 * mongo + SQLite(?) -> database
 * Maybe some event queue -> event sourcing(?)
+* club_hub -> nextjs (?)
 * Activitypub protocol -> https://www.w3.org/TR/activitypub/
+
+> I make some small adjustments to Activitypub protocol, will be updating wiki as we go
+> Also, club_hub is not really part of original Activitypub protocol, is inspired by fediverse
